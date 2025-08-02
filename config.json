@@ -88,9 +88,49 @@
   },
   "custom_category": [
     {
-      "name": "",
-      "type": "短剧",
+      "name": "短剧",
+      "type": "tv",
       "query": "短剧"
+    },
+    {
+      "name": "日本动画",
+      "type": "tv",
+      "query": "日本动画"
+    },
+    {
+      "name": "日剧",
+      "type": "tv",
+      "query": "日剧"
+    },
+    {
+      "name": "爱情",
+      "type": "movie",
+      "query": "爱情"
+    },
+    {
+      "name": "科幻",
+      "type": "movie",
+      "query": "科幻"
+    },
+    {
+      "name": "治愈",
+      "type": "movie",
+      "query": "治愈"
+    },
+    {
+      "name": "英剧",
+      "type": "tv",
+      "query": "英剧"
+    },
+    {
+      "name": "韩剧",
+      "type": "tv",
+      "query": "韩剧"
+    },
+    {
+      "name": "美剧",
+      "type": "tv",
+      "query": "美剧"
     }
   ]
 }
